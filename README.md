@@ -36,16 +36,16 @@
 ## ✅ HOW TO USE:
 ###   - Start the program:
 ####     Run script, "python3 NAME_OF_FILE.py"
-####   - You will see:
+####  You will see:
 #####   - 1) Create account
 #####   - 2) Login
 #####   - 0) Exit
-####   - After creating an account and logging in, you gain access to your encrypted vault:
+####  After creating an account and logging in, you gain access to your encrypted vault:
 #####  - 1) Add new password
 #####   - 2) View saved passwords
 #####   - 3) Delete password
 #####   - 0) Logout
-###    - Preview Example Below to visually understand how the manager works in a terminal.
+###   Preview Example Below to visually understand how the manager works in a terminal.
 ## 📸 Picture Example:
 ##### <img width="3024" height="1802" alt="Image" src="https://github.com/user-attachments/assets/a96d32ee-9936-40de-9ba9-cb259813c2e6" />
 
