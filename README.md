@@ -69,7 +69,5 @@
 ## 🔒 File Encryption and Hashing:
 ##### <img width="3024" height="680" alt="Image" src="https://github.com/user-attachments/assets/a39b2604-852a-42de-b86c-7aeb6cf69fa1" />
 
-## 🎥 Video Example:
-
 ## 📄 Licensing:
 This project may be freely modified and used for learning or personal use. You may access the code from this repository.
