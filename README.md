@@ -2,6 +2,10 @@
 
 ## This project is a command-line encrypted password manager built in Python. It securely stores login credentials using modern cryptography techniques. All passwords are kept inside an encrypted vault, and the master password is never stored in plain text. 
 
+
+https://github.com/user-attachments/assets/29619ebf-b472-47ab-903e-0f008d901a7f
+
+
 ## 🚀 MAIN FEATURES:
 
 ### 🔑 Master Account Security:
